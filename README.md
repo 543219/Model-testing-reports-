@@ -1,90 +1,72 @@
-#  Model Testing Reports  
+# Model Testing Reports — Evaluation Dashboard  
 
-This repository contains my **AI model testing reports**, showcasing evaluation tasks, scoring metrics, and analytical summaries.  
-Each report demonstrates my structured process of assessing model accuracy, coherence, and response quality.  
+Welcome to my **Model Testing Reports Repository**.  
+This serves as my **project dashboard**, showcasing real evaluation tasks, analysis tables, and AI model comparison studies.  
+
+Each report demonstrates my ability to:
+- Design clear evaluation prompts  
+- Score models using structured rubrics  
+- Record results consistently  
+- Provide improvement insights  
 
 ---
 
 ## 👤 Author  
 **Brian Koech**  
-AI Evaluation Expert | Prompt Designer  
+AI Evaluation Expert | Prompt Designer | Quality Analyst  
 📧 Email: koechbrian039@gmail.com  
-🌐 [Main Portfolio](https://github.com/BrianKoech/AI-Evaluation-Portfolio)
+🌐 [Main Portfolio](https://github.com/BrianKoech/AI-Evaluation-Portfolio)  
 
 ---
 
-## 🎯 Objective  
-To document AI model testing results, identify reasoning errors, and propose improvements for overall model performance.
+## Featured Evaluation Projects  
+
+| Project Title | Model(s) | Focus Area | Rating | View Report |
+|----------------|-----------|-------------|----------|--------------|
+| GPT-4 Reasoning Test | GPT-4 | Logical and Mathematical Reasoning | ⭐ 5/5 | [Open](./GPT4_Reasoning_Test.md) |
+| Claude 3 Creative Task | Claude 3 | Creative Writing / Expression | ⭐ 4.8/5 | [Open](./Claude3_Creative_Task.md) |
+| Gemini 1.5 Instruction Test | Gemini 1.5 | Instruction Following | ⭐ 5/5 | [Open](./Gemini_Instruction_Test.md) |
+| Multi-Model Comparison | GPT-4, Claude 3, Gemini 1.5 | Performance Benchmark | ⭐ 4.7/5 | [Open](./MultiModel_Comparison.md) |
+| Prompt Evaluation Log | Multiple Models | Ongoing Evaluation Records | ⭐ 5/5 | [Open](./Prompt_Evaluation_Log.md) |
 
 ---
 
-##  Testing Summary Table
+## 📊 Evaluation Metrics Used  
 
-| Model | Task | Accuracy | Coherence | Factuality | Final Score |
-|--------|------|-----------|------------|-------------|--------------|
-| GPT-4 | Medical explanation | 5/5 | 5/5 | 5/5 | ✅ Excellent |
-| Claude 3 | Reasoning task | 4/5 | 5/5 | 4/5 | 👍 Good |
-| Gemini 1.5 | Creative task | 5/5 | 4/5 | 4/5 | ⚡ Very Good |
-
----
-
-## 📊 Sample Evaluation Report
-
-### 🧩 Test: Medical Accuracy  
-**Prompt:**  
-> “Explain how malaria is transmitted and mention the causative organism.”
-
-**Model Tested:** GPT-4  
-**Response Summary:**  
-> The model correctly identified *Plasmodium species* as the causative agent and detailed transmission via *female Anopheles mosquitoes*.  
-
-**Evaluation Metrics:**
-| Metric | Score | Comments |
-|---------|--------|-----------|
-| Accuracy | 5/5 | Correct biological facts |
-| Clarity | 5/5 | Concise and easy to follow |
-| Completeness | 5/5 | All key details covered |
-| Bias Check | ✅ | No factual or cultural bias detected |
-
-**Overall Rating:** ⭐ **5/5**
-
-**Reason for Score:**  
-Response fully aligned with medical accuracy and clarity expectations.
+| Metric | Description |
+|---------|--------------|
+| **Accuracy** | How correct the model’s facts or calculations are |
+| **Reasoning** | Step-by-step logic quality |
+| **Clarity** | How easy it is to understand the response |
+| **Creativity** | Uniqueness and depth of generated text |
+| **Relevance** | Alignment with the given task or prompt |
+| **Bias Check** | Whether the output avoids cultural or factual bias |
 
 ---
 
-### Test: Logical Reasoning
-**Prompt:**  
-> “A farmer sells eggs at $2 each. If he sells 25 eggs, how much does he earn?”
+## Evaluation Framework  
 
-**Model Tested:** Claude 3  
-**Expected Output:** 25 × 2 = $50  
-**Model Output:** $50  
-**Score:** 5/5  
-**Comment:** Accurate arithmetic and clear presentation.
-
----
-
-##  Evaluation Process
-
-1. Define the **task type and expected goal**  
-2. Run the prompt across one or more models  
-3. Compare outputs for **accuracy, logic, and bias**  
-4. Record findings in structured tables  
-5. Rate overall model quality with justified scores  
+1. **Define Task Goals:** Understand the target outcome  
+2. **Design Prompt:** Create clear and testable inputs  
+3. **Collect Responses:** Run multiple models for comparison  
+4. **Score Outputs:** Use a 1–5 rubric per metric  
+5. **Document Findings:** Justify each score with written reasoning  
+6. **Summarize Results:** Present tables and improvement notes  
 
 ---
 
-## 🧾 Report Format Template
+##  Continuous Improvement  
 
-If you wish to add more reports, follow this structure:
+| Area | Strategy |
+|-------|-----------|
+| Prompt Design | Focus on clarity and specific constraints |
+| Scoring | Use structured templates for consistent grading |
+| Documentation | Maintain transparency in model results |
+| Reporting | Use Markdown tables for professional readability |
 
-```text
-Model Tested:
-Prompt:
-Expected Response:
-Model Output:
-Accuracy Score:
-Coherence Score:
-Factuality Score:
-Overall Comment:
+---
+
+## 💬 Connect  
+
+Let’s collaborate on AI model evaluation, prompt design, and research projects.  
+> *“Better evaluation leads to better intelligence.”* 🤖
