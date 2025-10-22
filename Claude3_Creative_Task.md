@@ -1,4 +1,4 @@
-# Claude 3 Creative Writing Evaluation  
+## Claude 3 Creative Writing Evaluation  
 
 **Evaluator:** Brian Koech  
 **Date:** October 2025  
